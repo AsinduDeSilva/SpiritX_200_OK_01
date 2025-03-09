@@ -1,0 +1,22 @@
+.header{
+    justify-content: center;
+    text-align: center;
+}
+
+.sign{
+    background-image:url(images/signup_background.png);
+    background-size: cover;
+}
+
+.form1{
+    background-color: white;
+}
+
+#strengthBar{
+    width: 0%; 
+    transition: width 0.3s ease;
+}
+
+.progress{
+    height: 10px;
+}
